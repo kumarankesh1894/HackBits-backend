@@ -208,7 +208,7 @@ router.get("/problem-statements", (req, res) => {
     "Cybersecurity Threat Detection System",
     "Social Impact Measurement Tool",
     "Digital Healthcare Management System",
-    "lad chatti",
+    
   ];
 
   res.json({ problemStatements });
